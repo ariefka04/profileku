@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Perkenalkan nama saya **Arief Khoirul Anwar**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/)
 Saya juga memiliki Web Profile (https://greatprofile.000webhostapp.com/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arief-k-anwar-218605272/)ku ya.
  
